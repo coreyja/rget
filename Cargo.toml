@@ -1,0 +1,6 @@
+[package]
+name = "rget"
+version = "0.1.0"
+authors = ["Corey Alexander <coreyja@gmail.com>"]
+
+[dependencies]
