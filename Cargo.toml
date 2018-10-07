@@ -4,6 +4,9 @@ version = "0.0.0"
 authors = ["Corey Alexander <coreyja@gmail.com>"]
 
 [dependencies]
+console = "0.6.2"
 docopt = "1"
+indicatif = "0.9.0"
+reqwest = "0.7.3"
 serde = "1.0"
 serde_derive = "1.0"
